@@ -5,10 +5,12 @@
 # Files for the Dalvik VM
 *.dex
 
+/.idea
 # Java class files
 *.class
 
 # Generated files
+/viewpager-parallax.iml
 bin/
 gen/
 
